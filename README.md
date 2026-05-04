@@ -36,7 +36,7 @@ However, the management noticed a decline in their active users and revenue grow
     
  **▫️** Plan **p11** this is a newly launched plan after 5G launch. It is also making good revenue and stands at the second highest revenue generating plan.
 
-**14.** **Underperfoming plans :**
+**13.** **Underperfoming plans :**
 
    **▫️** Plan **p4,p5, p6, p7** these existing plans are not performing well after 5G launch.
     
@@ -46,6 +46,6 @@ However, the management noticed a decline in their active users and revenue grow
 
  **▫️** Plan **p8,p9**, and **p10** are discontinued because they have not generated any revenue after the 5G launch .
 
-**18.** **AtliQo**'s market share remains relatively stable, with no significant gain after the 5G launch .
+**14.** **AtliQo**'s market share remains relatively stable, with no significant gain after the 5G launch.
 
-**19.** Market share is dominated by compitators **(eg: PIO )**
+**15.** Market share is dominated by compitators **(eg: PIO )**
