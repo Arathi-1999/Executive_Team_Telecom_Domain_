@@ -32,19 +32,19 @@ However, the management noticed a decline in their active users and revenue grow
 
 **12.** **Best performing plans:**
 
-    **▫️** Plan **p1** showed strong growth after the 5G launch, with revenue increased from **1.8 billion** to **2.4 billion**, indicating **33%** rise in revenue.
+   **▫️** Plan **p1** showed strong growth after the 5G launch, with revenue increased from **1.8 billion** to **2.4 billion**, indicating **33%** rise in revenue.
     
-    **▫️** Plan **p11** this is a newly launched plan after 5G launch. It is also making good revenue and stands at the second highest revenue generating plan.
+ **▫️** Plan **p11** this is a newly launched plan after 5G launch. It is also making good revenue and stands at the second highest revenue generating plan.
 
 **14.** **Underperfoming plans :**
 
-    **▫️** Plan **p4,p5, p6, p7** these existing plans are not performing well after 5G launch.
+   **▫️** Plan **p4,p5, p6, p7** these existing plans are not performing well after 5G launch.
     
-    **▫️** Plan **p13** this  newly launched plan is also not performing well after the 5G launch.
+   **▫️** Plan **p13** this  newly launched plan is also not performing well after the 5G launch.
 
-    **▫️** Plans like **p5** and **p7** are still running,but performing poorly after the 5G launch.
+ **▫️** Plans like **p5** and **p7** are still running,but performing poorly after the 5G launch.
 
-    **▫️** Plan **p8,p9**, and **p10** are discontinued because they have not generated any revenue after the 5G launch .
+ **▫️** Plan **p8,p9**, and **p10** are discontinued because they have not generated any revenue after the 5G launch .
 
 **18.** **AtliQo**'s market share remains relatively stable, with no significant gain after the 5G launch .
 
