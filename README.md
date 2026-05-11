@@ -49,3 +49,7 @@ However, the management noticed a decline in their active users and revenue grow
 **14.** **AtliQo**'s market share remains relatively stable, with no significant gain after the 5G launch.
 
 **15.** Market share is dominated by compitators **(eg: PIO )**
+
+
+## Live Dashboard:
+**https://app.powerbi.com/view?r=eyJrIjoiOTI2OWE5MDctMGJmOC00NzRmLTlkMjktMmE3YzgzMWRlNzM4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9**
