@@ -9,6 +9,7 @@ However, the management noticed a decline in their active users and revenue grow
 ## Tools Used: 
 
    **1. Power BI**
+   
    **2. DAX**
 
 ## Key Insights: ##
